@@ -1,9 +1,10 @@
 # Server Stats Script
 
+Project URL: https://github.com/ChiesaA/Server-Performance-Stats
+
 A simple Bash script to analyze basic Linux server performance statistics.
 
 This script can be run on most Linux servers and prints useful system information such as CPU usage, memory usage, disk usage, top running processes, uptime, logged-in users, and failed login attempts.
-
 ## Features
 
 - Total CPU usage
