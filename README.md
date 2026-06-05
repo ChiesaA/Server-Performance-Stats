@@ -1,6 +1,6 @@
 # Server Stats Script
 
-Project URL: https://roadmap.sh/projects/github-actions-deployment-workflow
+Project URL: https://roadmap.sh/projects/server-stats
 
 A simple Bash script to analyze basic Linux server performance statistics.
 
